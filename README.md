@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋, I'm Harry Dennen
+
+A full stack software engineer and technical lead - and occasionally a manager. 
+
+My language expertise is JavaScript/TypeScript, C#, and SQL. I am also proficient in Java, Go, Python, and PowerShell. 
+
+If you are a hiring manager, let's chat!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hdennen/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@hazterisk) [![Website](https://img.shields.io/website?url=https://www.harrydennen.com&style=for-the-badge)](https://www.harrydennen.com)
+
 
 <!--
 **hdennen/hdennen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
