@@ -2,7 +2,7 @@
 
 A full stack software engineer and technical lead - and occasionally a manager. 
 
-My language expertise is JavaScript/TypeScript, C#, and SQL. I am also proficient in Java, Go, Python, and PowerShell. 
+My language expertise is in JavaScript/TypeScript, C#, and SQL. I am also proficient in Java, Go, Python, and PowerShell. 
 
 If you are a hiring manager, let's chat!
 
